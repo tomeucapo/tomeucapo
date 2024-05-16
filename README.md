@@ -2,6 +2,7 @@
 
 - My name is Bartomeu Capó. 
 - I'm Computer Engineer with more than 24 years tinkering with computers and things that using processors, actually I'm IT consultant and software engineer.
+- This is my little github space with some bunch lines of code, not all, but some. Some new and old, old, very old software projects.
 
 <!--
 **tomeucapo/tomeucapo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
